@@ -19,15 +19,15 @@ Modelling
 
 Data Visualization
 - Matplotlib
-The Python library was used in this notebook.
+The python library was used for this notebook.
 ---
 
 # Files
-The files in the repository represents the topics discussed which contains everything needed to answer the questions.
+The files in the repository answers all the questions asked in the data analysis.
 ---
 
 # Results 
-The main findings can be found in the post[here](https://medium.com/p/f64c60a20624/edit)
+The main findings can be found  [here](https://medium.com/p/f64c60a20624/edit)
 ---
 
 # Acknowledgement
