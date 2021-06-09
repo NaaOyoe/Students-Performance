@@ -1,6 +1,14 @@
 # Students Performance Data
 ---
 
+# Table of contents
+1. Motivation
+2. Installation
+3. Files
+4. Results
+5. Acknowledgement
+
+
 # Motivation
 In this project we will be taking a look at the performance of students in a particular school.
 These are some of the questions i tried to answer,
