@@ -13,11 +13,11 @@
 In this project we will be taking a look at the performance of students in a particular school.
 These are some of the questions i tried to answer,
 
-- What does the data suggest about students and their ethnicities and which ethnicity has the highest number of students.
+- What is the parental level of education of the first top 5 females with 100% score in reading.
 
-- What does the data suggest to those who completed the test preparation course to those who didn't according to their math score.
+- What does the data suggest about race and ethnicity and their score.
 
-- How many students could afford a standard lunch and had high marks in math.
+- Did students who completed the test preparation course do well in all subjects?
 
 ---
 
@@ -25,14 +25,12 @@ These are some of the questions i tried to answer,
 The notebook uses, 
 Data Analysis
 - Pandas
-
 - Numpy
 
-Modelling
-- Sklearn
 
-Data Visualization
+# Data Visualization
 - Matplotlib
+- Seaborn
 
 The python library was used for this notebook.
 
